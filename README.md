@@ -21,7 +21,7 @@ It will take some time. If you do not see any splash screen or if you see a brok
 Clone the repository and install dependencies:  
 ```bash
 git clone https://github.com/Hash1164/Digit-Recognizer.git
-cd AI-Digit-Recognizer
+cd Digit-Recognizer
 pip install -r requirements.txt
 ```
 
